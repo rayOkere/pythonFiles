@@ -8,7 +8,7 @@ class Rainbow:
 # a global variable is a variable created inside a class and is available everywhere in the class..
 # a local variable is a variable exclusive to the function it's in.
 class CheckEvenOrOdd:
-    def evenOrOdd(self):
+    def evenOrOdd(self): 
      try:
     
         userNumber = input("Please enter a number\n")

@@ -1,0 +1,3 @@
+git add . (This adds all changes made to the code to git)
+git commit -m "Message given" (commits the changes alongside a specific explanation of what the changes are)
+git init (Meant to be used on the first time initialising git in a folder)
